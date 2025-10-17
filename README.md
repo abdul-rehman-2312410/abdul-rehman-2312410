@@ -1,69 +1,100 @@
 <!-- ====================== Abdul Rehman GitHub Profile ====================== -->
 
 <h1 align="center">
-  Hi there, I'm Abdul Rehman
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36" alt="waving hand">
+  Hi there, I'm <span style="color:#00bfff;">Abdul Rehman</span> 
+  <span class="wave-hand">👋</span>
 </h1>
 
-<p align="center">
-  <strong>🎓 BSCS Student at <a href="https://szabist.edu.pk/" target="_blank">SZABIST Karachi</a> • Future Software Engineer • Passionate Coder</strong>
-</p>
+<h3 align="center">
+  🎓 BSCS Student at <a href="https://szabist.edu.pk/" target="_blank" style="color:#0077b6;">SZABIST Karachi</a> <br>
+  💻 Future Software Engineer | Passionate Coder | Tech Explorer 🌍
+</h3>
 
 ---
 
-### ✨ About Me
-- 🎯 I’m a **Computer Science student** who loves building useful software.  
-- 💡 I enjoy **problem-solving**, writing **clean code**, and learning new technologies.  
-- 🛠️ I work with multiple languages and tools, and I use **IntelliJ IDEA** as my primary IDE.  
-- ☕ Daily routine: *Code, debug, learn, repeat.*
+### ✨ About Me  
+- 🎯 I’m a **Computer Science student** who loves turning ideas into reality through code.  
+- 💡 Passionate about **problem solving**, **clean design**, and **learning every day**.  
+- 🚀 Exploring **Software Engineering**, **OOP**, **AI tools**, and **Ubuntu on VMware**.  
+- ☕ “Keep learning, keep building — progress never stops.”  
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect With Me  
 <p align="center">
-  <a href="mailto:abdulrehman06012@gmail.com" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" style="border-radius:50%; margin:6px;" alt="gmail"/>
+  <a href="mailto:abdulrehman06012@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" style="border-radius:50%; margin:10px; animation: float 3s ease-in-out infinite;" />
   </a>
-  <a href="https://www.linkedin.com/in/abdul-rehman-653b5a367/" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" style="border-radius:50%; margin:6px;" alt="linkedin"/>
+  <a href="https://www.linkedin.com/in/abdul-rehman-653b5a367/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" style="border-radius:50%; margin:10px; animation: float 3.5s ease-in-out infinite;" />
   </a>
-  <a href="https://github.com/abdul-rehman-2312410" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" style="border-radius:50%; margin:6px;" alt="github"/>
+  <a href="https://github.com/abdul-rehman-2312410">
+    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" style="border-radius:50%; margin:10px; animation: float 4s ease-in-out infinite;" />
   </a>
 </p>
 
 ---
 
-### 🧠 Languages I Work With
+### 🧠 Languages I Work With  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cs,html,css&theme=dark&perline=6" style="border-radius:12px;" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cs,html,css&perline=6&theme=dark" />
 </p>
 
 ---
 
-### 🧰 Tools, IDEs & Platforms I Use
+### 🧩 Tools & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=intellij,vscode,git,github,figma,postman,ubuntu,vmware,ps&theme=dark&perline=9" style="border-radius:12px;" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,intellij,git,github,figma,postman,ubuntu,vmware&perline=8&theme=dark" />
 </p>
 
 ---
 
-### 💼 Featured Project
-#### 🚆 [Train Reservation System (Java)](https://github.com/abdul-rehman-2312410/TrainReservationSystem)  
-A console-based Java project to **book train tickets**, **search reservations**, and **store data** using file handling.  
-Built with **OOP**, **Collections**, and **Merge Sort** for sorting reservations by price.
+### 🚆 Featured Project  
+#### 🔹 [Train Reservation System (Java)](https://github.com/abdul-rehman-2312410/TrainReservationSystem)
+A console-based **Java project** for **train ticket booking**, **reservation management**, and **data handling**.  
+Built with **OOP concepts**, **Collections**, and **Sorting Algorithms**.  
 
 ---
 
-### 💬 Quote I Like
-> “Simplicity is the soul of efficiency.” — *Austin Freeman*  
-*(Short, practical, and true for good code.)*
+### 💬 Quote I Believe In  
+> “Push yourself, because no one else is going to do it for you.” 🚀
 
 ---
 
-### ❤️ Support
-If you find my projects helpful, please ⭐ star the repositories and follow me — it motivates me to build more! 🚀
+### ❤️ Support  
+⭐ If you enjoy my work, please **star my repositories** and follow me!  
+Let’s **grow, code, and inspire** together. 🌱  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdul-rehman-2312410&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
+
+---
+
+<!-- ====== CSS Animation Section ====== -->
+<style>
+  /* 👋 Wavy Hand Animation */
+  .wave-hand {
+    display: inline-block;
+    animation: wave 2.5s infinite;
+    transform-origin: 70% 70%;
+    font-size: 1.8rem;
+  }
+
+  @keyframes wave {
+    0% { transform: rotate(0deg); }
+    10% { transform: rotate(14deg); }
+    20% { transform: rotate(-8deg); }
+    30% { transform: rotate(14deg); }
+    40% { transform: rotate(-4deg); }
+    50% { transform: rotate(10deg); }
+    60%,100% { transform: rotate(0deg); }
+  }
+
+  /* 🌊 Floating Animation for Icons */
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-8px); }
+    100% { transform: translateY(0px); }
+  }
+</style>
