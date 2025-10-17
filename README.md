@@ -1,66 +1,70 @@
-<!-- ====== Abdul Rehman GitHub Profile ====== -->
-<h1 align="center">Hi there, I'm Abdul Rehman 👋</h1>
+<!-- ====================== Abdul Rehman GitHub Profile ====================== -->
 
-<p align="center">
-🎓 BSCS Student at <strong>SZABIST Karachi</strong> <br>
-💻 Passionate about Software Development & Problem Solving <br>
-☕ Love exploring new tech and creating real-world projects
-</p>
+<h1 align="center">
+  Hi there, I'm Abdul Rehman 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px">
+</h1>
+
+<h3 align="center">
+  🎓 BSCS Student at <a href="https://szabist.edu.pk/" target="_blank">SZABIST Karachi</a> <br>
+  💻 Future Software Engineer | Passionate Coder | Tech Explorer
+</h3>
+
+---
+
+### ✨ About Me  
+- 🎯 I’m a **Computer Science student** passionate about creating impactful solutions.  
+- 💡 I love **problem solving, clean code,** and learning new technologies.  
+- 🚀 Currently exploring **Software Engineering**, **OOP**, and **AI tools**.  
+- ☕ “Code. Debug. Repeat.” — that’s my daily mantra!
 
 ---
 
 ### 🌐 Connect With Me  
 <p align="center">
   <a href="mailto:abdulrehman06012@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=F25C54" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" style="border-radius:50%; margin: 8px;" />
   </a>
   <a href="https://www.linkedin.com/in/abdul-rehman-653b5a367/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=0077B5" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" style="border-radius:50%; margin: 8px;" />
   </a>
   <a href="https://github.com/abdul-rehman-2312410">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=181717" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" style="border-radius:50%; margin: 8px;" />
   </a>
 </p>
 
 ---
 
-### 💻 Tech I’ve Worked With  
-
-#### 🧠 Languages  
+### 🧠 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cs,python,html,css&theme=dark&perline=6" style="border-radius: 15px;"/>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cs,html,css&perline=6&theme=dark" />
 </p>
 
-#### 🧩 Frameworks & Tools  
+---
+
+### 🧩 Tools & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,netlify,postman,ps&theme=dark&perline=7" style="border-radius: 15px;"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,netlify,ps&perline=7&theme=dark" />
 </p>
 
 ---
 
 ### 🚆 Featured Project  
-#### 🎯 [Train Reservation System (Java)](https://github.com/abdul-rehman-2312410/TrainReservationSystem)
-A console-based Java project that allows users to **book train tickets**, **search reservations**, and **store data** using file handling.  
-🧩 Built with **OOP**, **Collections**, and **Sorting Algorithms**.
+#### 🔹 [Train Reservation System (Java)](https://github.com/abdul-rehman-2312410/TrainReservationSystem)
+A console-based Java project for **train ticket booking**, **searching reservations**, and **data handling**.  
+Built with **OOP concepts**, **Collections**, and **Sorting Algorithms**.
 
 ---
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdul-rehman-2312410&show_icons=true&theme=tokyonight&border_radius=20" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rehman-2312410&layout=compact&theme=tokyonight&border_radius=20" height="165"/>
-</p>
-
----
-
-### 🧭 Quote I Live By  
-> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
+### 💬 Quote I Believe In  
+> “First, solve the problem. Then, write the code.” — *John Johnson*
 
 ---
 
 ### ❤️ Support  
-⭐ **Star my repositories** if you like my work — it keeps me motivated 🚀  
+⭐ If you like my work, don’t forget to **star my repositories** and follow me!  
+Let’s grow together 🚀
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdul-rehman-2312410&label=Profile%20Views&color=blue&style=for-the-badge&border_radius=20"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
