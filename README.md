@@ -16,7 +16,7 @@
 - 🎯 I’m a **Computer Science student** passionate about creating impactful solutions.  
 - 💡 I enjoy **problem-solving**, writing **clean code**, and **building projects** that make life easier.  
 - 🚀 Currently learning and working with multiple programming languages and developer tools.  
-- ☕ “Code. Debug. Repeat.” — that’s my daily mantra!
+- ☕ “Keep learning, keep building progress never stops.” 
 
 ---
 
@@ -29,7 +29,7 @@
 
 ### 🧰 Tools, IDEs & Platforms I Use  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=intellij,vscode,git,github,figma,postman,ubuntu,vmware,ps&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,ubuntu,ps&perline=8&theme=dark" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ A console-based Java project for **train ticket booking**, **searching reservati
 ---
 
 ### 💬 Quote I Believe In  
-> “First, solve the problem. Then, write the code.” — *John Johnson*
+> “Keep coding until your dreams compile successfully.”
 
 ---
 
