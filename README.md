@@ -14,13 +14,34 @@
 
 ### ✨ About Me  
 - 🎯 I’m a **Computer Science student** passionate about creating impactful solutions.  
-- 💡 I love **problem solving, clean code,** and learning new technologies.  
-- 🚀 Currently exploring **Software Engineering**, **OOP**, and **AI tools**.  
+- 💡 I enjoy **problem-solving**, writing **clean code**, and **building projects** that make life easier.  
+- 🚀 Currently learning and working with multiple programming languages and developer tools.  
 - ☕ “Code. Debug. Repeat.” — that’s my daily mantra!
 
 ---
 
-### 🌐 Connect With Me  
+### 🧠 Languages I Work With  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cs,html,css&perline=6&theme=dark" />
+</p>
+
+---
+
+### 🧰 Tools, IDEs & Platforms I Use  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=intellij,vscode,git,github,figma,postman,ubuntu,vmware,ps&perline=8&theme=dark" />
+</p>
+
+---
+
+### 💼 Featured Project  
+#### 🚆 [Train Reservation System (Java)](https://github.com/abdul-rehman-2312410/TrainReservationSystem)
+A console-based Java project for **train ticket booking**, **searching reservations**, and **data handling**.  
+🧩 Built with **OOP concepts**, **Collections**, and **Sorting Algorithms**.
+
+---
+
+### 🌍 Connect With Me  
 <p align="center">
   <a href="mailto:abdulrehman06012@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" style="border-radius:50%; margin: 8px;" />
@@ -32,27 +53,6 @@
     <img src="https://skillicons.dev/icons?i=github" width="48" height="48" style="border-radius:50%; margin: 8px;" />
   </a>
 </p>
-
----
-
-### 🧠 Languages  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cs,html,css&perline=6&theme=dark" />
-</p>
-
----
-
-### 🧩 Tools & Technologies  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,netlify,ps&perline=7&theme=dark" />
-</p>
-
----
-
-### 🚆 Featured Project  
-#### 🔹 [Train Reservation System (Java)](https://github.com/abdul-rehman-2312410/TrainReservationSystem)
-A console-based Java project for **train ticket booking**, **searching reservations**, and **data handling**.  
-Built with **OOP concepts**, **Collections**, and **Sorting Algorithms**.
 
 ---
 
